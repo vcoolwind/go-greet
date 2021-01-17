@@ -1,3 +1,3 @@
-module github.com/vcoolwind/go-greet
+module github.com/vcoolwind/go_greet
 
 go 1.15
